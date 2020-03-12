@@ -9,6 +9,12 @@ A repo pretending studied if I collected infos here.
 
 ### Swift
 
+[awesome-swift](https://github.com/matteocrippa/awesome-swift)
+
+[Swift-MemoryLayout](https://github.com/TannerJin/Swift-MemoryLayout)
+
+[Swift 开源项目精选导图](https://xiaozhuanlan.com/topic/5271086934)
+
 ### Swift UI
 
 [新晋网红SwiftUI——淘宝带你初体验](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650402703&idx=1&sn=0942415a7c92ab2465a9acb58b15b808&scene=21#wechat_redirect)
@@ -31,10 +37,24 @@ Swift Perfect 从零开始到阿里云ECS实际应用教程
 
 [Swift 在 GAIA 平台云端一体化的探索](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650404534&idx=1&sn=176537ddc85e730c35fa89e28448ea0a&scene=21#wechat_redirect)
 
-
 ## Flutter
 [今日头条 字节跳动 Flutter架构实践
 ](https://www.toutiao.com/a6767134800399565324/)
+
+[给 iOS 开发者的 Flutter 指南（上) ](https://mp.weixin.qq.com/s/PnLVvOuP7eDa-EjyXAvgdw)
+
+[给 iOS 开发者的 Flutter 指南（下) ](https://mp.weixin.qq.com/s/59w9e3pdnT5-GqF98J0gYQ)
+
+[Swift VS Dart ](https://mp.weixin.qq.com/s/JM2yduPwz4WeFzsdyieqhg)
+
+## 算法
+
+
+## Android
+[Android advanced route knowledge map](https://github.com/feelschaotic/AndroidKnowledgeSystem)
+
+## 小程序
+[微信官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
 ## Golang
 [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) Go 入门
