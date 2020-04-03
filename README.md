@@ -38,6 +38,9 @@ Swift Perfect 从零开始到阿里云ECS实际应用教程
 [Swift 在 GAIA 平台云端一体化的探索](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650404534&idx=1&sn=176537ddc85e730c35fa89e28448ea0a&scene=21#wechat_redirect)
 
 ## Flutter
+
+[阿里集团内如何进行Flutter体系化建设?](https://mp.weixin.qq.com/s/0uVRSSRVUrXUTAJ3ftEN5w?from=timeline&isappinstalled=0&scene=2&clicktime=1585818393&enterid=1585818393)
+
 [今日头条 字节跳动 Flutter架构实践
 ](https://www.toutiao.com/a6767134800399565324/)
 
@@ -46,6 +49,8 @@ Swift Perfect 从零开始到阿里云ECS实际应用教程
 [给 iOS 开发者的 Flutter 指南（下) ](https://mp.weixin.qq.com/s/59w9e3pdnT5-GqF98J0gYQ)
 
 [Swift VS Dart ](https://mp.weixin.qq.com/s/JM2yduPwz4WeFzsdyieqhg)
+
+[Flutter-Tips 知识小集](https://github.com/awesome-tips/Flutter-Tips)
 
 ## 算法
 
