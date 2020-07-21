@@ -52,11 +52,17 @@ Swift Perfect 从零开始到阿里云ECS实际应用教程
 
 [Flutter-Tips 知识小集](https://github.com/awesome-tips/Flutter-Tips)
 
+[Flutter 在哈啰出行 B 端创新业务的实践
+](https://mp.weixin.qq.com/s/m0lVne9nai5-AM_cNPuZGQ)
+
+
 ## 算法
 
 
 ## Android
 [Android advanced route knowledge map](https://github.com/feelschaotic/AndroidKnowledgeSystem)
+
+
 
 ## 小程序
 [微信官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -66,6 +72,7 @@ Swift Perfect 从零开始到阿里云ECS实际应用教程
 
 [Go语言圣经](https://books.studygolang.com/gopl-zh/) Go 深入
 
+[go + 算法](https://greyireland.gitbook.io/algorithm-pattern/)
 
 ## Python 
 [Python3 教程](https://python3-cookbook.readthedocs.io/zh_CN/latest/chapters/p01_data_structures_algorithms.html)
